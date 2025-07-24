@@ -1,13 +1,3 @@
-### Experiências de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://avatars.githubusercontent.com/u/137009658?s=400&u=fd84c64d026cfccb8c55ca34b4d50778b4ff64f4&v=4"/>](https://www.spacex.com/)
-
-**Owner** \
-[**ARCAN**](https://www.arcanprojects.com.br/) • Full-time \
-Languages & Technologies: `Python`, `C++`, `JavaScript`\
-Featured Projects: [ARCAN](https://www.arcanprojects.com.br/).
-<br/>
-
 
 ### Minhas Skills:
 <p align="center">
