@@ -6,6 +6,7 @@ Desenvolvedor Front-end em evolução e Designer, focado em transformar ideias e
 
 - 💻 Estudando e evoluindo no desenvolvimento Front-end
 - 🎨 Apaixonado por design e interfaces
+- 🏀 Sempre jogo basquete nas horas vagas  
 - 🚀 Sempre buscando aprender novas tecnologias
 - 🎮 https://steamcommunity.com/id/matheuvz/
 
